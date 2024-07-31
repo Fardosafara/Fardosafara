@@ -1,7 +1,5 @@
 # Hey there, I'm Fardosa! 👋
 
-![Profile Banner](https://www.canva.com/design/play?locale=en&ui=eyJHIjp7IkUiOnRydWV9fQ&layoutQuery=+1280+*+640)
-
 I'm a passionate **Software Engineer**. My mission is to craft seamless and impactful web experiences using the latest technologies and best practices. As a software engineer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world.
 
 ## 🚀 About Me
