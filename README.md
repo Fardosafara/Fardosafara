@@ -2,7 +2,7 @@
 
 ![Profile Banner](https://www.canva.com/design/play?locale=en&ui=eyJHIjp7IkUiOnRydWV9fQ&layoutQuery=+1280+*+640)
 
-I'm a passionate **Software Engineer** based in the vibrant landscapes of **Kenya**. My mission is to craft seamless and impactful web experiences using the latest technologies and best practices. As a software engineer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world.
+I'm a passionate **Software Engineer**. My mission is to craft seamless and impactful web experiences using the latest technologies and best practices. As a software engineer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world.
 
 ## 🚀 About Me
 
@@ -31,9 +31,6 @@ I'm a passionate **Software Engineer** based in the vibrant landscapes of **Keny
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fardosa/)
 - [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fardosa)
 
-## 📈 GitHub Stats
-
-![Fardosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fardosafara&show_icons=true&theme=radical)
 
 ## 📫 Get in Touch
 
