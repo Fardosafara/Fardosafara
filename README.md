@@ -39,6 +39,6 @@ I'm always excited to collaborate on new projects, discuss innovative ideas, or 
 
 I'm open to new opportunities and collaborations. If you're looking for a dedicated and skilled full-stack developer to join your team, let's talk! You can reach me via:
 
-- Email: [fardosagedi2@gmail.com](mailto:fardosagedi2@gmail.com)
+- Email: [fardosagedi93@gmail.com](mailto:fardosagedi93@gmail.com)
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fardosa-gedi-3668b5309/)
 
